@@ -1,0 +1,42 @@
+﻿<Window x:Class="BizWorks.UserChangeToInactive"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BizWorks"
+        mc:Ignorable="d"
+        Title="UserChangeToInactive" Height="550" Width="700">
+    <Grid Margin="0,0,2,0">
+        <Label x:Name="label" Content="Username : " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,10,0,0" Height="28" Width="89"/>
+        <Label x:Name="label_Copy" Content="Profile Type :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,38,0,0" Height="28" Width="89"/>
+        <Label x:Name="label_Copy1" Content="First Name : " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,66,0,0" Height="28" Width="89"/>
+        <Label x:Name="label_Copy2" Content="Middle Name: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,94,0,0" Height="28" Width="89"/>
+        <Label x:Name="label_Copy3" Content="Last Name: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,122,0,0" Height="28" Width="89"/>
+        <Label x:Name="label_Copy4" Content="Date of Birth: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,150,0,0" Height="28" Width="89"/>
+        <Label x:Name="label_Copy5" Content="Gender: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,178,0,0" Height="28" Width="89"/>
+        <Label x:Name="label_Copy6" Content="Start Date: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,206,0,0" Height="28" Width="89"/>
+        <Label x:Name="label_Copy7" Content="Cell Phone #1 :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,234,0,0" Height="28" Width="89"/>
+        <Label x:Name="label_Copy8" Content="Cell Phone #2: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,262,0,0" Height="28" Width="89"/>
+        <Label x:Name="label_Copy9" Content="Work Phone # : " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,290,0,0" Height="28" Width="100"/>
+        <Label x:Name="label_Copy10" Content="Fax Phone # :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,318,0,0" Height="28" Width="89"/>
+        <Label x:Name="label_Copy11" Content="Home Phone # :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,346,0,0" Height="28" Width="100"/>
+        <Label x:Name="label_Copy12" Content="Email :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="115,374,0,0" Height="28" Width="89"/>
+        <Label x:Name="HomePhone" Content="C " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,346,0,0" Height="28" Width="361"/>
+        <Label x:Name="Email" Content=" " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,374,0,0" Height="28" Width="361"/>
+        <Label x:Name="FaxPhone" Content=" " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,318,0,0" Height="28" Width="361"/>
+        <Label x:Name="WorkPhone" Content=" " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,290,0,0" Height="28" Width="361"/>
+        <Label x:Name="CellPhone2" Content=" " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,262,0,0" Height="28" Width="361"/>
+        <Label x:Name="CellPhone1" Content=" " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,234,0,0" Height="28" Width="361"/>
+        <Label x:Name="StartDate" Content=" " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,206,0,0" Height="28" Width="361"/>
+        <Label x:Name="Gender" Content=" " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,178,0,0" Height="28" Width="361"/>
+        <Label x:Name="DateOfBirth" Content=" " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,150,0,0" Height="28" Width="361"/>
+        <Label x:Name="LastName" Content=" " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,122,0,0" Height="28" Width="361"/>
+        <Label x:Name="MiddleName" Content=" " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,94,0,0" Height="28" Width="361"/>
+        <Label x:Name="FirstName" Content=" " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,66,0,0" Height="28" Width="361"/>
+        <Label x:Name="ProfileType" Content=" " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,38,0,0" Height="28" Width="361"/>
+        <Label x:Name="UserName" Content=" " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="204,10,0,0" Height="28" Width="361"/>
+        <Button x:Name="button" Content="Confirm Deactivation" HorizontalAlignment="Left" VerticalAlignment="Top" Width="124" Margin="441,448,0,0" Height="39" Click="Deactivate_Click"/>
+        <Button x:Name="button1" Content="Cancel" HorizontalAlignment="Left" VerticalAlignment="Top" Width="124" Margin="115,448,0,0" Height="39" Click="Cancel_Click"/>
+
+    </Grid>
+</Window>
