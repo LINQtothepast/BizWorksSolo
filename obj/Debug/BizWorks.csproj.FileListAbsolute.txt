@@ -1,0 +1,36 @@
+C:\Users\Tara\Desktop\BizWorks\BizWorks\bin\Debug\BizWorks.exe.config
+C:\Users\Tara\Desktop\BizWorks\BizWorks\bin\Debug\BizWorks.exe
+C:\Users\Tara\Desktop\BizWorks\BizWorks\bin\Debug\BizWorks.pdb
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee Add GUI\EmployeeAdd1.g.cs
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee Add GUI\EmployeeAdd2.g.cs
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee Add GUI\EmployeeAdd3.g.cs
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee Modify GUI\EmployeeAddressModify.g.cs
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee Modify GUI\EmployeeEContactModify.g.cs
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee Modify GUI\EmployeeModify.g.cs
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee View GUI\EmployeeShow.g.cs
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Login.g.cs
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\MainMenu.g.cs
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee View GUI\SelectUserToView.g.cs
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\App.g.cs
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\BizWorks_MarkupCompile.cache
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\BizWorks_MarkupCompile.lref
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee Add GUI\EmployeeAdd1.baml
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee Add GUI\EmployeeAdd2.baml
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee Add GUI\EmployeeAdd3.baml
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee Modify GUI\EmployeeAddressModify.baml
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee Modify GUI\EmployeeEContactModify.baml
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee Modify GUI\EmployeeModify.baml
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee View GUI\EmployeeShow.baml
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Login.baml
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\MainMenu.baml
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee View GUI\SelectUserToView.baml
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\BizWorks.g.resources
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\BizWorks.Properties.Resources.resources
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\BizWorks.csproj.GenerateResource.Cache
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\BizWorks.exe
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\BizWorks.pdb
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\BizWorks.csprojResolveAssemblyReference.cache
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee View GUI\SelectUserToView1.g.cs
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee View GUI\SelectUserToView1.baml
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee Delete GUI\UserChangeToInactive.g.cs
+C:\Users\Tara\Desktop\BizWorks\BizWorks\obj\Debug\Employee Delete GUI\UserChangeToInactive.baml
